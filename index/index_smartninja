@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+</-- Komentar -->
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="desctription" content="Moja prva web stranica">
+  <meta name="author" content="Dragana">
+  <meta name="keywords" content="Web, page, coding, CV">
+  <title>CV_Dragana Lipovac</title>
+    <!-- other code -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+    <body>
+ <img src="https://www.jutarnji.hr/incoming/dragana-lipovacjpg/6695988/alternates/FREE_980/Dragana%20Lipovac.jpg" height="15%" width="15%" >
+<div class="box"><p>I'm 31 years old with work experience more than ten years. In meantime, I acquired the title of Bachelor of Economy and continued education for Master of Economics. In Ten years of service, I'm doing sales a full seven yrs. A sale can not say that is a branch of economics which still need to learn and be persistent. I see myself in the leading position in the industry with its own sales team. I think that knowledge of the sale should be passed on. I believe in team work, like working in an active team who selflessly communicate with each other and indicates mistakes and are trying to correct. I am very dedicated to work and active in terms of solving daily obligations. Free time I spend with loved ones on excursions or joint gatherings. Actively playing tennis and doing jogging.</p><p><strong>Work experience:</strong></p>
+  <p><strong>HUBBIG d.o.o., Zagreb / October 2017 – Today, Director/CEO </strong></p>
+  <p>• Start-up</p>
+  <p><strong>Globelink EG Sol d.o.o., Zagreb / April 2015 – April 2017, Sales Manager Croatia</strong></p>
+  <p>• Work on sales growth and business expansion in the Croatian</p>
+  <p>• Achieving sales growth of 30% for 2015/2016</p>
+  <p>• Communication and negotiation with B2B clients</p>
+  <p>• Develop new sales actions</p>
+  <p>• Taking advantage of existing resources to increase sales</p>
+  <p>• Organizing events for existing customers</p>
+  <p>• The introduction of new rules in business to increase traffic</p>
+  <p><strong>cargo-partner d.o.o., Zagreb / June 2006 – April 2015, Business Develpoment and Country Marketing Manager</strong></p>
+  <p>• Marketing and Sales</p>
+  <p>• communications with existing and potential customers</p>
+  <p>• B2B communication and negotiations with clients</p>
+  <p>• Responsible sales increase of 50% in 2014</p>
+  <p>• Key Account Manager for clients attending the SEE region</p>
+  <p><strong>dm-drogerie markt d.o.o., Zagreb. / September 2005 – June 2006, Expansion Officer<p></strong>
+  <p>• A trainee clerk in the department expansion</p>
+  <p>• Participation in negotiations with landlords</p>
+  <p>• Preparation of documents for the rental space</p>
+  <p>• Cost Analysis</p></div>
+        <br>
+        <nav class="nav"<h2>Dragana Lipovac</h2>
+        <p><strong>Celjska 34 a, Zagreb, Croatia</strong> </p>
+        <p><strong>16.11.1986.</strong> </p>
+        <p><strong>bacc.oec.</strong> </p>
+        <p><strong>00385 98 615 022</strong> </p>
+        <p><strong>dragana.lipovac@gmail.com</strong> </p>
+        <p><strong>Education:</strong></p>
+          <p>2006.-2010. - Bachelor of Economics</p>
+          <p>2018. - SmartNinja programer</p></nav>
+<div class="box2"</div>
+    </body>
+</html>

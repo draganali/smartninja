@@ -1,0 +1,8 @@
+<DOCTYPER.HTML>
+<HTML>
+<head>
+    <title> Moja stranica </title>
+    <p id="red">Moj web</p>
+    <link rel="stylesheet" .href="style.css"
+</head>
+<body>
